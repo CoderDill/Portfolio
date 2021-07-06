@@ -4,7 +4,7 @@ import Resume from "./Resume"
 function App() {
   return (
     <div className="App">
-      <h1>Hello, I'm Matthew Dillon. I'm a full-stack developer.</h1>
+      <h1 className="App-title">Hello, I'm Matthew Dillon.<br />A full-stack developer.</h1>
       <Resume />
     </div>
   );
